@@ -1,4 +1,4 @@
-# 🍓 Organic Market
+# 🍓 Ecolora
 
 A full-stack e-commerce web application that allows users to browse organic products, view product details, manage a shopping cart, and simulate a checkout process.
 
